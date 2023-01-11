@@ -1,5 +1,3 @@
-# vendor_GoogleCamera
-
 # Setting up Google Camera
 To build Google Camera you have to build the package in your device tree (Example, in device.mk).
 
